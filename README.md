@@ -1,12 +1,12 @@
-# iUnlocker-Sapphire
+# iUnlocker-Sapphire 2.0
 New advanced graphics Unlocker for Android Devices
 ***
 <div align="center">
   <!-- Version -->
-   <img src="https://img.shields.io/badge/Version-v1.3.5-purple.svg?longCache=true&style=popout-triangle"
+   <img src="https://img.shields.io/badge/Version-v1.3.6-red.svg?longCache=true&style=popout-triangle"
      alt="version" />
   <!-- build-date -->
-    <img src="https://img.shields.io/badge/build date-May 31, 2022-white.svg?longCache=true&style=flat-triangle"
+    <img src="https://img.shields.io/badge/build date-Julu 30, 2023-white.svg?longCache=true&style=flat-triangle"
       alt="_time_stamp_" />
 </div>
 
@@ -43,8 +43,8 @@ This project is controllable by the dev only.
 ***
 # Requirements:
 * 64bit Device.
-* Android 11 Or Android 12.
-* Snapdragon Processor.
+* Android 11+ +Including Android 13)
+* Snapdragon Processor. Do not try in mdk, it my cause bootloop
 * Magisk 24.3 not required but for OTA Updates.
 * Termux | not required but for the unlocker & the cleaner.
 ***
