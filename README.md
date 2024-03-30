@@ -43,7 +43,7 @@ This project is controllable by the dev only.
 ***
 # Requirements:
 * 64bit Device.
-* Android 11+ (Including Android 13)
+* Android 11+ (Including Android 14 and Android 15 dev preview beta)
 * Snapdragon Processor. Do not try in mdk, it my cause bootloop
 * Magisk 24.3 not required but for OTA Updates.
 * Termux | not required but for the unlocker & the cleaner.
