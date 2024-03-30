@@ -1,12 +1,12 @@
-# iUnlocker-Sapphire 2.0
+# iUnlocker-Sapphire 3.0
 New advanced graphics Unlocker for Android Devices
 ***
 <div align="center">
   <!-- Version -->
-   <img src="https://img.shields.io/badge/Version-v1.3.6-red.svg?longCache=true&style=popout-triangle"
+   <img src="https://img.shields.io/badge/Version-v3.0.1-red.svg?longCache=true&style=popout-triangle"
      alt="version" />
   <!-- build-date -->
-    <img src="https://img.shields.io/badge/build date-Julu 30, 2023-green.svg?longCache=true&style=flat-triangle"
+    <img src="https://img.shields.io/badge/build date-March 30, 2024-green.svg?longCache=true&style=flat-triangle"
       alt="_time_stamp_" />
 </div>
 
@@ -53,8 +53,9 @@ This project is controllable by the dev only.
 ```diff
 - 32bit Devices, not supported for now.
 - MTK Processors. (Fucking worse processors)
+- Kirin and Exynos Processors.
 - RO (Read-Only) Roms.
-- Android: 7,8,9,10
+- Android: 7,8,9,10 (Anything below 11)
 ```
 
 ***
@@ -62,7 +63,7 @@ This project is controllable by the dev only.
 
 # Features:
 
-* - This will unlock Highest graphics in all games. (Apex legends, pubg, codm, etc...)
+* - This will unlock Highest graphics in all games. (Warzone Mobile, pubg, codm, etc...)
 * - lib unpacker, its will automatically unpack required libs and modify it for your phone.
 * - Bootloop saver addon (Only for iUnlocker). e.g: if the phone stuck on bootlogo forever you can disable the module by holding power button then unleash it after the screen gose off.
 * - Unlocker. adreno 660 unlocks all the graphics but this unlocker will unlock 120/90/60 fps .
